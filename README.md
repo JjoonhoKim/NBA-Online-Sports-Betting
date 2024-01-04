@@ -39,5 +39,5 @@ Another limitation is how the data was collected back then before modern technol
 # Tableau Link
 
 * Please note that the storyboard focuses on the final result and does not cover each step of the process
-## Link: https://public.tableau.com/app/profile/justin.kim8784/viz/NBAOnlineSportsBetting/Story1 
+## Link: https://public.tableau.com/app/profile/justin.kim8784/viz/CFFinalNBAOnlineSportsBetting/Story1
 
